@@ -23,4 +23,8 @@ Github es un portal en el cual cualquier persona sea desarollador o no puede cre
 ![Captura de pantallaxxx](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
 ##  1.1 Crear Cuenta Github
-Para crear una cuenta de github es muy sencillo, para ello tenemos que irnos a la página web de [github](https://github.com/) y en la esquina de arriba de la derecha veremos dos opciones sign in (para iniciar sesion con una cuenta ya creada) y sign up que es la que escojeremos para crear una cuenta una vez le demos
+Para crear una cuenta de github es muy sencillo, para ello tenemos que irnos a la página web de [github](https://github.com/) y en la esquina de arriba de la derecha veremos dos opciones sign in (para iniciar sesion con una cuenta ya creada) y sign up que es la que escojeremos para crear una cuenta una vez seleccionemos esa opcion nos pedira que pongamos nuetro email una contraseña y un nombre de usuario y ya habremos creado nuestra cuenta.
+
+![image](https://user-images.githubusercontent.com/90915926/194958954-3fe8667b-05a9-4d13-a5ce-5f777edac03a.png)
+
+## 1.2 Instalación Visual Studio Code

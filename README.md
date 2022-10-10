@@ -1,4 +1,4 @@
-# Apuntes Github Oriol
+# Apuntes Github Godoy
 ## ÍNDICE
 1. Github
 

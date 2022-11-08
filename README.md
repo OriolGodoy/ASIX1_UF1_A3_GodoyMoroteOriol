@@ -32,7 +32,7 @@ Para crear una cuenta de github es muy sencillo, para ello tenemos que irnos a l
 ## 1.2 Crear Repositorio Github
 Crear un repositorio donde alojar nuetros projectos es tan sencillo como nada mas entremos en github a la izquierda de la pantalla nos saldran los repositorios reciente y un boton que pone "new" (nuevo) le damos a ese boton, ponemos el nombre que queremos que tenga el repo, si queremos que se publico o privado y sy queremos que tenga readme file y lo creamos dandole al boton de create repository.
 
-![image](https://user-images.githubusercontent.com/90915926/196370623-3058802d-1cf8-488c-b092-e246be955067.png)    ![image](https://user-images.githubusercontent.com/90915926/196368196-9a088f68-52c3-422f-ba6b-715da547384a.png)
+![image](https://user-images.githubusercontent.com/90915926/196370623-3058802d-1cf8-488c-b092-e246be955067.png)  ![image](https://user-images.githubusercontent.com/90915926/196368196-9a088f68-52c3-422f-ba6b-715da547384a.png)
 
 ## 2. Visual Studio Code
 Visual Studio Code es un editor de codigo fuente que utiliza la mayoria de desarrolladores para sus proyectos y que esta disponible en todas las plataformas de pc.
@@ -47,4 +47,9 @@ Si queremos instalar visual estudio code para poder editar y crear nuestros proy
 Una vez se haya descargado el instalador vamos al explorador de archivos y abrimos el instalador y hacemos lo que tengamos que hacer y ya abremos instalado el Visual Studio Code.
 
 ![image](https://user-images.githubusercontent.com/90915926/196372393-72147fa6-70b4-481d-95dc-1a7625807996.png)
+
+## 2.2 Clonación repositorio a local
+Para poder clonar un repositorio de github a local necesitamos el link del repositorio que queremos clonar y entramos a Visual Studio Code y entramos al terminal y mediante el comando cd nos movemos a  la carpeta donde queremos que este la clonación, una vez estemos con el comando git clone seguido del enlace del repositorio que queremos clonar clonaremo el repositorio.
+
+![image](https://user-images.githubusercontent.com/90915926/200520853-f2110a71-dea7-4b99-83f0-0b6f0eb4d166.png)  ![image](https://user-images.githubusercontent.com/90915926/200520971-66b495dc-745c-4948-b495-8c52b74d0381.png)
 

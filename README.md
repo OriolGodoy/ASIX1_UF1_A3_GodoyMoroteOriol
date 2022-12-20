@@ -18,6 +18,9 @@
 
 4. HTML
 
+   4.1 Sintaxis HTML
+
+5. CSS
 
 ## 1. Github
 Github es un portal en el cual cualquier persona sea desarollador o no puede crearse una cuenta y subir el codigo de sus distintos projectos creados en cualquier lenguaje de programacion o de marcas incluso subir tu pagina web para que sea accesible y visible mediante un link.
